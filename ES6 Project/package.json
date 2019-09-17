@@ -1,0 +1,14 @@
+{
+  "name": "es6-project",
+  "version": "1.0.0",
+  "description": "In order to install the game engine you need to use npm. ``` npm install rjsengine ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rjsengine": "^1.1.0"
+  }
+}
